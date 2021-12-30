@@ -1,0 +1,20 @@
+{
+	"name": "hacker-news-preact-htm",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"dev": "servor src index.html 4000 --reload",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "emarifer",
+	"license": "MIT",
+	"devDependencies": {
+		"servor": "^4.0.2",
+		"standard": "^16.0.4"
+	},
+	"eslintConfig": {
+		"extends": "standard"
+	}
+}
