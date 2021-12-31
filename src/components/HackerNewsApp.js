@@ -40,4 +40,7 @@ export const HackerNewsApp = () => {
  * DEL AMBITO DEL NAVEGADOR
  * VER:
  * https://github.com/standard/standard/issues/821
+ *
+ * EL FUTURO DEL DESARROLLO WEB Y PERFORMANCE DE UNA APLICACION. INTERESANTE EXPLICACION. VER:
+ * https://youtu.be/f-Mpz_vKx28?t=3918
  */

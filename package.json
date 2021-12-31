@@ -5,6 +5,7 @@
 	"main": "main.js",
 	"scripts": {
 		"dev": "servor src index.html 4000 --reload",
+		"build": "replace_base_url docs/index.html hacker-news-preact-htm",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [],
